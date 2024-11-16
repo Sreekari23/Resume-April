@@ -1,2 +1,1 @@
-# Resume-April
-1st Resume of mine, updated upto April 2024
+Just trying to keep coding my resume on latex, nothing much!
